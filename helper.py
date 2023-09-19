@@ -1,5 +1,4 @@
 import datetime
-import operator
 from dataclasses import dataclass
 import io
 import csv
